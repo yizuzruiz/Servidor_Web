@@ -6,7 +6,9 @@ Servidor HTTP escrito en Java para sitios estáticos.
 - Crea una carpeta "htdocs" en donde desargaste ServidorWeb.jar
 - Ejecuta en una terminal:
 	java -jar ServidorWeb.jar
-- Ir al navegador: http://localhost:2323/ 
+- Ir al navegador: http://localhost:2323/
+
+Codígo Fuente en "src"
 	
 	
 
